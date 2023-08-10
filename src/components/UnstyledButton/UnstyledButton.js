@@ -10,7 +10,7 @@ export default styled.button`
   text-align: left;
   font: inherit;
   color: inherit;
-
+  flex: 0;
   &:focus {
     outline-offset: 2px;
   }
